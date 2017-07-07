@@ -1,5 +1,9 @@
 <scheme name="Solarized Dark." version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="2.4166667" />
+  <metaInfo>
+    <property name="modified">2017-07-07T17:31:05</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_SIZE" value="29" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -524,6 +528,11 @@
       <value>
         <option name="FOREGROUND" value="5677ff" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_IVAR">
+      <value>
+        <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
     <option name="RUBY_LOCAL_VAR_ID">
