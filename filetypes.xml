@@ -5,6 +5,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="rabl" type="PLAIN_TEXT" />
+      <mapping pattern="gemfile.local" type="Ruby" />
     </extensionMap>
   </component>
 </application>
