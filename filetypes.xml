@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
-      <mapping ext="rabl" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.local" type="Ruby" />
+      <mapping ext="rabl" type="Ruby" />
       <mapping ext="config" type="YAML" />
     </extensionMap>
   </component>
