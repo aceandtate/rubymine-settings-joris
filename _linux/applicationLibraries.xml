@@ -1304,6 +1304,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/factory_girl_rails-4.8.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="faker (v1.8.4, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/faker-1.8.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/faker-1.8.4/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.12.1, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/faraday-0.12.1/lib" />
@@ -2184,6 +2192,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rabl-0.13.0/fixtures" />
       </SOURCES>
     </library>
+    <library name="rabl (v0.13.1, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rabl-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rabl-0.13.1/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rabl-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rabl-0.13.1/fixtures" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.3, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rack-2.0.3/bin" />
@@ -2816,6 +2834,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/frontend" />
       </SOURCES>
     </library>
+    <library name="solidus (v2.4.0.alpha@409e2e, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/guides" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/sample" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/guides" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/sample" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/.circleci" />
+      </SOURCES>
+    </library>
     <library name="solidus (v2.4.0.alpha@4607e7, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-4607e7549f1d/api" />
@@ -3290,6 +3332,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/api/script" />
       </SOURCES>
     </library>
+    <library name="solidus_api (v2.4.0.alpha@409e2e, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/api/script" />
+      </SOURCES>
+    </library>
     <library name="solidus_api (v2.4.0.alpha@4607e7, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-4607e7549f1d/api/db" />
@@ -3448,6 +3506,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/backend/config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/backend/script" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/backend/vendor" />
+      </SOURCES>
+    </library>
+    <library name="solidus_backend (v2.4.0.alpha@409e2e, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/backend/vendor" />
       </SOURCES>
     </library>
     <library name="solidus_backend (v2.4.0.alpha@4607e7, rbenv: 2.4.0) [gem]">
@@ -3622,6 +3696,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/core/config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/core/script" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/core/vendor" />
+      </SOURCES>
+    </library>
+    <library name="solidus_core (v2.4.0.alpha@409e2e, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/core/vendor" />
       </SOURCES>
     </library>
     <library name="solidus_core (v2.4.0.alpha@4607e7, rbenv: 2.4.0) [gem]">
@@ -3810,6 +3902,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/frontend/config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/frontend/script" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/frontend/vendor" />
+      </SOURCES>
+    </library>
+    <library name="solidus_frontend (v2.4.0.alpha@409e2e, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/frontend/vendor" />
       </SOURCES>
     </library>
     <library name="solidus_frontend (v2.4.0.alpha@4607e7, rbenv: 2.4.0) [gem]">
@@ -4022,6 +4130,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/sample/db" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-0981a9ff8a8a/sample/lib" />
+      </SOURCES>
+    </library>
+    <library name="solidus_sample (v2.4.0.alpha@409e2e, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/sample/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/sample/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/sample/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus-409e2ee745d8/sample/lib" />
       </SOURCES>
     </library>
     <library name="solidus_sample (v2.4.0.alpha@4607e7, rbenv: 2.4.0) [gem]">
