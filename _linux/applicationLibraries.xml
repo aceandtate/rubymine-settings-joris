@@ -640,6 +640,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.23/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.10.25, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.25/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-2.10.25/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v2.10.11, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.11/bin" />
@@ -748,6 +756,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.23/apis" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v2.10.25, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.25/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.25/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.25/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.25/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.25/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-core-2.10.25/apis" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-resources (v2.10.11, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.11/lib" />
@@ -818,6 +838,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.23/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.10.25, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.25/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-2.10.25/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4 (v1.0.1, rbenv: 2.4.0) [gem]">
@@ -2044,6 +2072,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.4.8/support" />
       </SOURCES>
     </library>
+    <library name="mysql2 (v0.4.9, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.4.9/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.4.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.4.9/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.4.9/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.4.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/mysql2-0.4.9/support" />
+      </SOURCES>
+    </library>
     <library name="net-telnet (v0.1.1, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/bin" />
@@ -2144,6 +2184,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/oj-3.3.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/oj-3.3.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/oj-3.3.4/pages" />
+      </SOURCES>
+    </library>
+    <library name="oj (v3.3.5, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/oj-3.3.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/oj-3.3.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/oj-3.3.5/pages" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/oj-3.3.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/oj-3.3.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/oj-3.3.5/pages" />
       </SOURCES>
     </library>
     <library name="orm_adapter (v0.5.0, rbenv: 2.4.0) [gem]">
@@ -4340,6 +4392,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-6e7d6689f1a6/.circleci" />
       </SOURCES>
     </library>
+    <library name="solidus_customers (v0.0.1@9fc4b8, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-9fc4b8e51e1b/.circleci" />
+      </SOURCES>
+    </library>
     <library name="solidus_customers (v0.0.1@ac4a35, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-ac4a3581e280/db" />
@@ -4716,6 +4786,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-bbb543193817/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-bbb543193817/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-bbb543193817/config" />
+      </SOURCES>
+    </library>
+    <library name="solidus_jwt_auth (v0.0.1@d7c527, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-d7c52761103d/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-d7c52761103d/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-d7c52761103d/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-d7c52761103d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-d7c52761103d/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-d7c52761103d/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-d7c52761103d/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-d7c52761103d/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-d7c52761103d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_jwt_auth-d7c52761103d/config" />
       </SOURCES>
     </library>
     <library name="solidus_jwt_auth (v0.0.1@dfeadb, rbenv: 2.4.0) [gem]">
