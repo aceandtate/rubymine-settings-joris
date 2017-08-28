@@ -4160,6 +4160,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-0c3b45c1f4df/.circleci" />
       </SOURCES>
     </library>
+    <library name="solidus_aceandtate_products (v0.4.4@117788, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-1177882c797a/.circleci" />
+      </SOURCES>
+    </library>
     <library name="solidus_aceandtate_products (v0.4.4@155a7f, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_aceandtate_products-155a7f24d1c9/db" />
