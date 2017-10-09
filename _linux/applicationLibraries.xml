@@ -6472,6 +6472,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rake-12.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake-progressbar (v0.0.5, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rake-progressbar-0.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rake-progressbar-0.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="ransack (v1.8.2, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ransack-1.8.2/lib" />
@@ -6494,6 +6502,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ransack-1.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="ransack (v1.8.4, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ransack-1.8.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/ransack-1.8.4/lib" />
       </SOURCES>
     </library>
     <library name="rb-fsevent (v0.10.2, rbenv: 2.4.0) [gem]">
@@ -10306,6 +10322,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1961a67fd955/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1961a67fd955/config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1961a67fd955/.circleci" />
+      </SOURCES>
+    </library>
+    <library name="solidus_customers (v0.0.1@1a7811, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_customers-1a781147ac45/.circleci" />
       </SOURCES>
     </library>
     <library name="solidus_customers (v0.0.1@212067, rbenv: 2.4.0) [gem]">
