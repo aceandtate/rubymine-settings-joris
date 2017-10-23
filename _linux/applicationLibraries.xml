@@ -9636,6 +9636,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_algoliasearch-3fbe43020e0b/config" />
       </SOURCES>
     </library>
+    <library name="solidus_algoliasearch (v0.0.1@709d6e, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_algoliasearch-709d6e593776/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_algoliasearch-709d6e593776/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_algoliasearch-709d6e593776/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_algoliasearch-709d6e593776/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_algoliasearch-709d6e593776/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_algoliasearch-709d6e593776/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_algoliasearch-709d6e593776/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_algoliasearch-709d6e593776/config" />
+      </SOURCES>
+    </library>
     <library name="solidus_algoliasearch (v0.0.1@986348, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/solidus_algoliasearch-9863480726e0/app" />
